@@ -1,0 +1,1 @@
+[2017-07-31 09:15:22.400] [INFO] admin-log - [32m[g:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo\lib\master\master.js] [39m{"action":"execute","moduleId":"__console__","method":"clientHandler","msg":{"signal":"list","clientId":"pomelo_list_1501463722332","username":"admin"}}

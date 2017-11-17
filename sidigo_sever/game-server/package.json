@@ -1,0 +1,11 @@
+{
+    "name": "sidigo_qipai",
+    "version": "0.0.1",
+    "private": false,
+    "dependencies": {
+        "generic-pool": "^3.1.7",
+        "mysql": "^2.13.0",
+        "pomelo": "2.2.5",
+        "pomelo-sync-plugin": "0.0.2"
+    }
+}

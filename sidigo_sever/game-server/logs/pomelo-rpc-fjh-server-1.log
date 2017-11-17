@@ -1,0 +1,11 @@
+[2017-07-13 20:36:20.946] [ERROR] pomelo-rpc - [31m[mqtt-acceptor] [39mprocess rpc message error ReferenceError: session is not defined
+    at Object.exp.getFjh (G:\sidigo_sever\sidigo_qipai\game-server\app\domain\fjh.js:30:25)
+    at Object.remote.fjh (G:\sidigo_sever\sidigo_qipai\game-server\app\servers\fjh\remote\fjhRemote.js:5:17)
+    at Dispatcher.pro.route (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-server\dispatcher.js:52:10)
+    at Acceptor.cb (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-server\gateway.js:22:16)
+    at processMsg (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-server\acceptors\mqtt-acceptor.js:138:12)
+    at Connection.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-server\acceptors\mqtt-acceptor.js:62:11)
+    at emitOne (events.js:115:13)
+    at Connection.emit (events.js:210:7)
+    at Connection.emitPacket (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\mqtt-connection\connection.js:14:8)
+    at emitOne (events.js:115:13)

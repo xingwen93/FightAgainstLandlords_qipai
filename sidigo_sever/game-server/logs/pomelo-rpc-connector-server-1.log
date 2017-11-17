@@ -1,0 +1,297 @@
+[2017-07-06 14:11:19.494] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3161
+[2017-07-06 14:11:19.495] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3161
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:11:19.495] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-2, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:11:46.451] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3161
+[2017-07-06 14:11:46.451] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3161
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:11:46.451] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-2, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:13:41.513] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3160
+[2017-07-06 14:13:41.514] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:13:41.514] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:13:52.998] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3160
+[2017-07-06 14:13:52.998] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:13:52.998] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:14:12.707] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 2 host: 127.0.0.1, port: 3160
+[2017-07-06 14:14:12.708] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 2 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:14:12.708] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:14:18.255] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 3 host: 127.0.0.1, port: 3160
+[2017-07-06 14:14:18.255] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 3 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:14:18.255] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:14:50.751] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 4 host: 127.0.0.1, port: 3160
+[2017-07-06 14:14:50.751] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 4 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:14:50.752] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:16:18.232] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3160
+[2017-07-06 14:16:18.232] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:16:18.233] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:16:22.262] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3160
+[2017-07-06 14:16:22.263] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:16:22.263] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:16:25.959] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 2 host: 127.0.0.1, port: 3160
+[2017-07-06 14:16:25.959] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 2 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:16:25.959] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:16:29.692] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 3 host: 127.0.0.1, port: 3160
+[2017-07-06 14:16:29.692] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 3 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:16:29.692] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:22:42.421] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3161
+[2017-07-06 14:22:42.421] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3161
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:22:42.422] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-2, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:22:46.438] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3161
+[2017-07-06 14:22:46.438] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3161
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:22:46.439] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-2, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:24:44.046] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3161
+[2017-07-06 14:24:44.046] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3161
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:24:44.047] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-2, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:24:48.701] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3161
+[2017-07-06 14:24:48.701] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3161
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:24:48.701] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-2, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:24:52.773] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 2 host: 127.0.0.1, port: 3161
+[2017-07-06 14:24:52.773] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 2 host: 127.0.0.1, port: 3161
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:24:52.773] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-2, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:31:13.124] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3160
+[2017-07-06 14:31:13.124] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:31:13.125] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:31:17.233] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3160
+[2017-07-06 14:31:17.233] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:31:17.234] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:31:28.679] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 2 host: 127.0.0.1, port: 3160
+[2017-07-06 14:31:28.679] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 2 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:31:28.679] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:32:14.221] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 3 host: 127.0.0.1, port: 3160
+[2017-07-06 14:32:14.221] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 3 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:32:14.221] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:35:45.455] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 4 host: 127.0.0.1, port: 3160
+[2017-07-06 14:35:45.455] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 4 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:35:45.455] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:40:21.608] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 5 host: 127.0.0.1, port: 3160
+[2017-07-06 14:40:21.608] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 5 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:40:21.608] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 14:49:06.401] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 6 host: 127.0.0.1, port: 3160
+[2017-07-06 14:49:06.401] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 6 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 14:49:06.402] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 17:51:02.239] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3161
+[2017-07-06 17:51:02.240] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3161
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 17:51:02.240] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-2, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-06 17:51:06.816] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3160
+[2017-07-06 17:51:06.817] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-06 17:51:06.817] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":1}]}, error code: 5
+[2017-07-07 17:57:06.748] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3161
+[2017-07-07 17:57:06.749] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3161
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-07 17:57:06.749] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-2, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":0}]}, error code: 5
+[2017-07-09 18:22:40.034] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3170
+[2017-07-09 18:22:40.034] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3170
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-09 18:22:40.035] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: auth-server-1, msg: {"namespace":"user","serverType":"auth","service":"authRemote","method":"auth","args":[{"username":"","host":0,"token":"","__route__":"connector.entryHandler.entry"}]}, error code: 5
+[2017-07-09 18:24:38.249] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3170
+[2017-07-09 18:24:38.249] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3170
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-09 18:24:38.249] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: auth-server-1, msg: {"namespace":"user","serverType":"auth","service":"authRemote","method":"auth","args":[{"username":"","host":0,"token":"","__route__":"connector.entryHandler.entry"}]}, error code: 5
+[2017-07-09 18:26:36.268] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3170
+[2017-07-09 18:26:36.269] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3170
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-09 18:26:36.269] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: auth-server-1, msg: {"namespace":"user","serverType":"auth","service":"authRemote","method":"auth","args":[{"username":"","host":0,"token":"","__route__":"connector.entryHandler.entry"}]}, error code: 5
+[2017-07-10 16:21:44.684] [ERROR] pomelo-rpc - [31m[mqtt-acceptor] [39mrpc server is error: "Error: listen EADDRINUSE :::3150\n    at Object.exports._errnoException (util.js:1016:11)\n    at exports._exceptionWithHostPort (util.js:1039:20)\n    at Server.setupListenHandle [as _listen2] (net.js:1307:14)\n    at listenInCluster (net.js:1355:12)\n    at Server.listen (net.js:1455:7)\n    at Acceptor.pro.listen (G:\\sidigo_sever\\sidigo_qipai\\game-server\\node_modules\\pomelo-rpc\\lib\\rpc-server\\acceptors\\mqtt-acceptor.js:38:15)\n    at Gateway.pro.start (G:\\sidigo_sever\\sidigo_qipai\\game-server\\node_modules\\pomelo-rpc\\lib\\rpc-server\\gateway.js:49:17)\n    at Component.pro.start (G:\\sidigo_sever\\sidigo_qipai\\game-server\\node_modules\\pomelo\\lib\\components\\remote.js:54:15)\n    at G:\\sidigo_sever\\sidigo_qipai\\game-server\\node_modules\\pomelo\\lib\\util\\appUtil.js:111:19\n    at iterate (G:\\sidigo_sever\\sidigo_qipai\\game-server\\node_modules\\async\\lib\\async.js:123:13)"
+[2017-07-10 16:24:26.592] [ERROR] pomelo-rpc - [31m[mqtt-acceptor] [39mrpc server is error: "Error: listen EADDRINUSE :::3150\n    at Object.exports._errnoException (util.js:1016:11)\n    at exports._exceptionWithHostPort (util.js:1039:20)\n    at Server.setupListenHandle [as _listen2] (net.js:1307:14)\n    at listenInCluster (net.js:1355:12)\n    at Server.listen (net.js:1455:7)\n    at Acceptor.pro.listen (G:\\sidigo_sever\\sidigo_qipai\\game-server\\node_modules\\pomelo-rpc\\lib\\rpc-server\\acceptors\\mqtt-acceptor.js:38:15)\n    at Gateway.pro.start (G:\\sidigo_sever\\sidigo_qipai\\game-server\\node_modules\\pomelo-rpc\\lib\\rpc-server\\gateway.js:49:17)\n    at Component.pro.start (G:\\sidigo_sever\\sidigo_qipai\\game-server\\node_modules\\pomelo\\lib\\components\\remote.js:54:15)\n    at G:\\sidigo_sever\\sidigo_qipai\\game-server\\node_modules\\pomelo\\lib\\util\\appUtil.js:111:19\n    at iterate (G:\\sidigo_sever\\sidigo_qipai\\game-server\\node_modules\\async\\lib\\async.js:123:13)"
+[2017-07-10 16:24:57.245] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server auth-server-1 host: 127.0.0.1, port: 3170
+[2017-07-11 00:14:38.230] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server auth-server-1 host: 127.0.0.1, port: 3170
+[2017-07-13 22:40:08.829] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server fjh-server-1 host: 127.0.0.1, port: 3171
+[2017-07-13 22:40:09.360] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server auth-server-1 host: 127.0.0.1, port: 3170
+[2017-07-15 11:20:10.239] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3170
+[2017-07-15 11:20:10.239] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3170
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-15 11:20:10.240] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: auth-server-1, msg: {"namespace":"user","serverType":"auth","service":"authRemote","method":"getUserInfo","args":[{"uid":4}]}, error code: 5
+[2017-07-15 19:36:13.180] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3170
+[2017-07-15 19:36:13.180] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3170
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-15 19:36:13.181] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: auth-server-1, msg: {"namespace":"user","serverType":"auth","service":"authRemote","method":"getUserInfo","args":[{"uid":5}]}, error code: 5
+[2017-07-15 19:41:43.352] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3170
+[2017-07-15 19:41:43.352] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3170
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-15 19:41:43.353] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: auth-server-1, msg: {"namespace":"user","serverType":"auth","service":"authRemote","method":"getUserInfo","args":[{"uid":5}]}, error code: 5
+[2017-07-15 20:48:54.633] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3170
+[2017-07-15 20:48:54.633] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3170
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-15 20:48:54.634] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: auth-server-1, msg: {"namespace":"user","serverType":"auth","service":"authRemote","method":"getUserInfo","args":[{"uid":5}]}, error code: 5
+[2017-07-15 21:35:10.529] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 12 host: 127.0.0.1, port: 3160
+[2017-07-15 21:35:10.529] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 12 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-15 21:35:10.529] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":5,"sid":"connector-server-1","area":"area-server-2"}]}, error code: 5
+[2017-07-15 21:40:04.799] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3160
+[2017-07-15 21:40:04.799] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-15 21:40:04.799] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":5,"sid":"connector-server-1","area":"area-server-2"}]}, error code: 5
+[2017-07-16 12:17:08.259] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3160
+[2017-07-16 12:17:08.259] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3160
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-16 12:17:08.260] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: area-server-1, msg: {"namespace":"user","serverType":"area","service":"userRemote","method":"userEnter","args":[{"uid":8,"sid":"connector-server-1"}]}, error code: 5
+[2017-07-16 20:13:07.178] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server fjh-server-1 host: 127.0.0.1, port: 3171
+[2017-07-17 23:34:57.067] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server fjh-server-1 host: 127.0.0.1, port: 3171
+[2017-07-17 23:34:57.352] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server auth-server-1 host: 127.0.0.1, port: 3170
+[2017-07-17 23:34:57.361] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server area-server-2 host: 127.0.0.1, port: 3161
+[2017-07-19 19:50:52.933] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 1, host: 127.0.0.1, port: 3161
+[2017-07-19 19:54:06.311] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 2, host: 127.0.0.1, port: 3160
+[2017-07-19 19:54:19.664] [WARN] pomelo-rpc - [33m[mqtt-mailbox] [39mtimer is not exsits, serverId: connector-server-1 remote: 3, host: 127.0.0.1, port: 3160
+[2017-07-22 00:58:41.937] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server fjh-server-1 host: 127.0.0.1, port: 3171
+[2017-07-22 00:58:41.991] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server auth-server-1 host: 127.0.0.1, port: 3170
+[2017-07-22 00:58:42.000] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server area-server-2 host: 127.0.0.1, port: 3161
+[2017-07-22 00:58:42.010] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc socket connector-server-1 is error, remote server area-server-1 host: 127.0.0.1, port: 3160
+[2017-07-25 23:07:22.291] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3170
+[2017-07-25 23:07:22.292] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3170
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-25 23:07:22.292] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: auth-server-1, msg: {"namespace":"user","serverType":"auth","service":"authRemote","method":"auth","args":[{"username":"nihao1","host":"xindiguo","token":"token_test","__route__":"connector.entryHandler.entry"}]}, error code: 5
+[2017-07-25 23:07:43.823] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3170
+[2017-07-25 23:07:43.823] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3170
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-25 23:07:43.823] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: auth-server-1, msg: {"namespace":"user","serverType":"auth","service":"authRemote","method":"auth","args":[{"username":"nihao3","host":"xindiguo","token":"token_test","__route__":"connector.entryHandler.entry"}]}, error code: 5
+[2017-07-25 23:09:38.567] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3170
+[2017-07-25 23:09:38.567] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 0 host: 127.0.0.1, port: 3170
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-25 23:09:38.567] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: auth-server-1, msg: {"namespace":"user","serverType":"auth","service":"authRemote","method":"auth","args":[{"username":"nihao1","host":"xindiguo","token":"token_test","__route__":"connector.entryHandler.entry"}]}, error code: 5
+[2017-07-25 23:09:55.760] [ERROR] pomelo-rpc - [31m[mqtt-mailbox] [39mrpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3170
+[2017-07-25 23:09:55.760] [ERROR] pomelo-rpc - [31m[MailStation] [39m[pomelo-rpc] fail to send message Error: rpc connector-server-1 callback timeout 30000, remote server 1 host: 127.0.0.1, port: 3170
+    at Timeout.<anonymous> (G:\sidigo_sever\sidigo_qipai\game-server\node_modules\pomelo-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.js:257:16)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+[2017-07-25 23:09:55.760] [ERROR] pomelo-rpc - [31m[failprocess] [39mrpc failed with error, remote server: auth-server-1, msg: {"namespace":"user","serverType":"auth","service":"authRemote","method":"auth","args":[{"username":"nihao3","host":"xindiguo","token":"token_test","__route__":"connector.entryHandler.entry"}]}, error code: 5

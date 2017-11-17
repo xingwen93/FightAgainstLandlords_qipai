@@ -1,0 +1,40 @@
+{
+  "development":{
+    "gate": [
+		{"id": "gate-server-1", "host": "192.168.1.102", "clientPort": 3014, "frontend": true}
+		],
+    "connector": [
+    {"id": "connector-server-1", "host": "192.168.1.102", "port": 3150, "clientHost": "127.0.0.1", "clientPort": 3020, "frontend": true},
+	{"id": "connector-server-2", "host": "192.168.1.102", "port": 3151, "clientHost": "127.0.0.1", "clientPort": 3021, "frontend": true}
+    ],
+	"area": [
+		{"id": "area-server-1", "host": "127.0.0.1", "port": 3160}
+	 
+		],
+	"auth": [
+		{"id": "auth-server-1", "host": "127.0.0.1", "port": 3170}
+		],
+    "fjh": [
+      {"id": "fjh-server-1", "host": "127.0.0.1", "port": 3171}
+    ]
+  },
+  "production":{
+     "gate": [
+		{"id": "gate-server-1", "host": "127.0.0.1", "clientPort": 3014, "frontend": true}
+		],
+    "connector": [
+    {"id": "connector-server-1", "host": "127.0.0.1", "port": 3150, "clientHost": "127.0.0.1", "clientPort": 3020, "frontend": true},
+	{"id": "connector-server-2", "host": "127.0.0.1", "port": 3151, "clientHost": "127.0.0.1", "clientPort": 3021, "frontend": true}
+    ],
+	"area": [
+		{"id": "area-server-1", "host": "127.0.0.1", "port": 3160}
+
+		],
+	"auth": [
+		{"id": "auth-server-1", "host": "127.0.0.1", "port": 3170}
+		],
+	  "fjh": [
+		  {"id": "fjh-server-1", "host": "127.0.0.1", "port": 3171}
+	  ]
+  }
+}
